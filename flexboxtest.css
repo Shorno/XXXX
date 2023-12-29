@@ -1,0 +1,58 @@
+.box {
+  height: 150px;
+  width: 150px;
+  font-size: 5em;
+  border-radius: 20px;
+  text-align: center;
+
+}
+
+#box1 {
+  background-color: pink;
+}
+
+#box2 {
+  background-color: #b3d4fc;
+}
+
+#box3 {
+  background-color: blueviolet;
+}
+
+#box4 {
+  background-color: fuchsia;
+}
+
+#box5 {
+  background-color: #4bba32;
+}
+
+#box6 {
+  background-color: pink;
+}
+
+#box7 {
+  background-color: #b3d4fc;
+}
+
+#box8 {
+  background-color: blueviolet;
+}
+
+#box9 {
+  background-color: fuchsia;
+}
+
+#box10 {
+  background-color: #4bba32;
+}
+
+.container {
+  display: flex;
+  border: pink 10px solid;
+  height: 90vh;
+  align-items: center;
+  flex-wrap: wrap;
+  /*!*row-gap: 4em;*!*/
+  /*column-gap: 2em;*/
+}
